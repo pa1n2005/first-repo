@@ -1,3 +1,5 @@
 #include "Monsterr.h" 
-int MAINFUNCTION() {}
-
+int main()
+{
+// the main function
+}
