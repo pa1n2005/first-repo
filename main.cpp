@@ -1,2 +1,3 @@
-#include "Monsterr.h"
-int MainFunction() {}
+#include "Monsterr.h" 
+int MAINFUNCTION() {}
+
